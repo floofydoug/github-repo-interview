@@ -20,6 +20,8 @@ Your goal is to create a small web application that:
    - Number of Stars
    - Link to the Repository
 4. **Loading State:** Show a loading indicator while fetching data.
+![Screenshot 2024-09-13 at 6 17 28 PM](https://github.com/user-attachments/assets/f3d6addb-4c24-4278-ad5f-ca18436ce55d)
+
 
 ### Bonus Features (Optional)
 
